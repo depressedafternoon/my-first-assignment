@@ -1,0 +1,29 @@
+.fake{
+    display: flex;
+  
+}
+#inline{
+    display: inline;
+    color: blue;
+}
+#picture{
+    width: 50%;
+    padding-left: 10%;
+
+}
+#diaries{
+    width: 50%;
+    padding-left: 5%;
+}
+a{
+    background-image: linear-gradient(chocolate, orange);
+    columns: white;
+    padding: 1%;
+}
+.box{
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px;
+    width: 20%;
+    
+    
+}
