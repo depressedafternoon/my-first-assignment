@@ -3,6 +3,7 @@ body{
 }
 .fake{
     display: flex;
+    padding-top: 100px;
     
   
 }
