@@ -60,6 +60,7 @@ a{
         display: flex;
         background-image: url(exp-bg.png);
         background-repeat: no-repeat;
+        background-position: right;
     }
     #professor{
         width: 50% ;
@@ -74,7 +75,29 @@ a{
         font-size: 60px;
         background-color: wheat;
     }
-   
+    .html-para{
+        padding-top: 100px;
+        display: flex;
+        background-image: url(dream-bg.png);
+        background-repeat: no-repeat;
+    }
+    #html-heading{
+        width: 50%;
+        padding-left: 80px;
+        padding-right: 20px;
+    }
+   html.img{
+       width: 50%;
+       
+   }
+   span{
+       display: block;
+   }
+   u{
+       background-color: black;
+       color: white;
+       font-size: 50px;
+   }
         
         
     
